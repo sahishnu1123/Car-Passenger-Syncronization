@@ -63,8 +63,8 @@ P C &lambda;(P) &lambda;(C) K
 
 - **P:** Number of passenger threads
 - **C:** Number of car threads
-- **&lambda;(P):** Parameter for exponential wait between 2 successive ride request made by the passenger
-- **&lambda;(C):** Parameter for exponential wait between 2 successive ride request accpeted by a car
+- **&lambda;(P):** Parameter for wandering time of a passenger between successive rides
+- **&lambda;(C):** Parameter for travelling time of a car
 - **K:** Total number of rides a passenger must ride for the passenger to exit the park
 
 ### Output of the Program 
