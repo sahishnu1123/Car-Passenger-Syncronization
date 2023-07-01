@@ -1,0 +1,950 @@
+Passenger 1 enters the museum at 17:1:32:46
+Passenger 7 enters the museum at 17:1:32:46
+Passenger 12 enters the museum at 17:1:32:47
+Passenger 1 made a ride request at 17:1:32:47
+Passenger 7 made a ride request at 17:1:32:47
+Passenger 17 enters the museum at 17:1:32:47
+Passenger 8 enters the museum at 17:1:32:47
+Passenger 6 enters the museum at 17:1:32:47
+Passenger 19 enters the museum at 17:1:32:48
+Passenger 19 made a ride request at 17:1:32:48
+Passenger 6 made a ride request at 17:1:32:48
+Car 6 accepts Passenger 7's request
+Passenger 7 started riding at 17:1:32:48
+Car 1 accepts Passenger 1's request
+Passenger 1 started riding at 17:1:32:48
+Passenger 15 enters the museum at 17:1:32:48
+Passenger 13 enters the museum at 17:1:32:49
+Car 7 accepts Passenger 6's request
+Passenger 6 started riding at 17:1:32:49
+Car 2 accepts Passenger 19's request
+Passenger 19 started riding at 17:1:32:49
+Passenger 14 enters the museum at 17:1:32:49
+Passenger 16 enters the museum at 17:1:32:49
+Passenger 11 enters the museum at 17:1:32:49
+Passenger 5 enters the museum at 17:1:32:49
+Passenger 2 enters the museum at 17:1:32:49
+Passenger 17 made a ride request at 17:1:32:49
+Car 9 accepts Passenger 19's request
+Passenger 19 started riding at 17:1:32:49
+Passenger 3 enters the museum at 17:1:32:49
+Passenger 9 enters the museum at 17:1:32:50
+Passenger 21 enters the museum at 17:1:32:50
+Passenger 10 enters the museum at 17:1:32:50
+Passenger 18 enters the museum at 17:1:32:50
+Passenger 4 enters the museum at 17:1:32:50
+Passenger 24 enters the museum at 17:1:32:50
+Passenger 22 enters the museum at 17:1:32:50
+Passenger 25 enters the museum at 17:1:32:50
+Passenger 23 enters the museum at 17:1:32:50
+Passenger 20 enters the museum at 17:1:32:50
+Passenger 24 made a ride request at 17:1:32:50
+Passenger 28 enters the museum at 17:1:32:50
+Passenger 29 enters the museum at 17:1:32:51
+Car 10 accepts Passenger 24's request
+Passenger 24 started riding at 17:1:32:51
+Passenger 9 made a ride request at 17:1:32:51
+Passenger 26 enters the museum at 17:1:32:51
+Car 11 accepts Passenger 9's request
+Passenger 9 started riding at 17:1:32:51
+Passenger 27 enters the museum at 17:1:32:51
+Passenger 20 made a ride request at 17:1:32:51
+Car 12 accepts Passenger 20's request
+Passenger 20 started riding at 17:1:32:51
+Passenger 30 enters the museum at 17:1:32:51
+Passenger 32 enters the museum at 17:1:32:51
+Passenger 33 enters the museum at 17:1:32:51
+Passenger 4 made a ride request at 17:1:32:51
+Passenger 27 made a ride request at 17:1:32:51
+Passenger 37 enters the museum at 17:1:32:51
+Car 13 accepts Passenger 4's request
+Passenger 4 started riding at 17:1:32:51
+Passenger 38 enters the museum at 17:1:32:51
+Passenger 31 enters the museum at 17:1:32:51
+Passenger 39 enters the museum at 17:1:32:51
+Passenger 40 enters the museum at 17:1:32:51
+Passenger 14 made a ride request at 17:1:32:51
+Passenger 35 enters the museum at 17:1:32:52
+Passenger 10 made a ride request at 17:1:32:52
+Passenger 41 enters the museum at 17:1:32:52
+Car 16 accepts Passenger 14's request
+Passenger 14 started riding at 17:1:32:52
+Passenger 42 enters the museum at 17:1:32:52
+Passenger 33 made a ride request at 17:1:32:52
+Car 4 accepts Passenger 27's request
+Passenger 27 started riding at 17:1:32:52
+Passenger 47 enters the museum at 17:1:32:52
+Car 17 accepts Passenger 33's request
+Passenger 33 started riding at 17:1:32:52
+Car 14 accepts Passenger 27's request
+Passenger 27 started riding at 17:1:32:52
+Passenger 34 enters the museum at 17:1:32:52
+Passenger 26 made a ride request at 17:1:32:52
+Passenger 36 enters the museum at 17:1:32:52
+Passenger 41 made a ride request at 17:1:32:53
+Passenger 48 enters the museum at 17:1:32:53
+Passenger 44 enters the museum at 17:1:32:52
+Passenger 49 enters the museum at 17:1:32:53
+Passenger 50 enters the museum at 17:1:32:53
+Car 19 accepts Passenger 41's request
+Passenger 41 started riding at 17:1:32:53
+Passenger 22 made a ride request at 17:1:32:52
+Car 9 has finished Passenger 19's tour.
+Passenger 19 finished riding at 17:1:32:53
+Car 1 has finished Passenger 1's tour.
+Passenger 1 finished riding at 17:1:32:53
+Car 13 has finished Passenger 4's tour.
+Passenger 4 finished riding at 17:1:32:53
+Passenger 30 made a ride request at 17:1:32:53
+Passenger 6 enters the museum at 17:1:32:54
+Passenger 30 enters the museum at 17:1:32:54
+Car 18 accepts Passenger 26's request
+Passenger 26 started riding at 17:1:32:53
+Passenger 11 made a ride request at 17:1:32:54
+Passenger 43 enters the museum at 17:1:32:52
+Passenger 22 enters the museum at 17:1:32:53
+Passenger 15 made a ride request at 17:1:32:53
+Passenger 46 enters the museum at 17:1:32:52
+Passenger 22 made a ride request at 17:1:32:54
+Passenger 34 made a ride request at 17:1:32:54
+Car 23 accepts Passenger 15's request
+Passenger 15 started riding at 17:1:32:54
+Passenger 45 enters the museum at 17:1:32:52
+Car 25 accepts Passenger 22's request
+Passenger 22 started riding at 17:1:32:54
+Car 9 accepts Passenger 22's request
+Passenger 22 started riding at 17:1:32:53
+Car 1 accepts Passenger 30's request
+Passenger 30 started riding at 17:1:32:54
+Passenger 21 made a ride request at 17:1:32:54
+Passenger 16 made a ride request at 17:1:32:54
+Car 24 accepts Passenger 22's request
+Passenger 22 started riding at 17:1:32:54
+Car 5 accepts Passenger 21's request
+Passenger 21 started riding at 17:1:32:55
+Car 22 accepts Passenger 11's request
+Passenger 11 started riding at 17:1:32:54
+Car 15 accepts Passenger 16's request
+Passenger 16 started riding at 17:1:32:55
+Passenger 32 made a ride request at 17:1:32:55
+Passenger 39 made a ride request at 17:1:32:55
+Car 3 accepts Passenger 32's request
+Passenger 32 started riding at 17:1:32:55
+Passenger 38 made a ride request at 17:1:32:55
+Car 8 accepts Passenger 39's request
+Passenger 39 started riding at 17:1:32:55
+Car 20 accepts Passenger 39's request
+Passenger 39 started riding at 17:1:32:55
+Passenger 37 made a ride request at 17:1:32:55
+Passenger 30 made a ride request at 17:1:32:55
+Car 13 accepts Passenger 37's request
+Passenger 37 started riding at 17:1:32:55
+Passenger 36 made a ride request at 17:1:32:55
+Car 21 accepts Passenger 30's request
+Passenger 30 started riding at 17:1:32:55
+Car 3 has finished Passenger 32's tour.
+Passenger 32 finished riding at 17:1:32:55
+Car 3 accepts Passenger 36's request
+Passenger 36 started riding at 17:1:32:55
+Passenger 19 enters the museum at 17:1:32:55
+Passenger 13 made a ride request at 17:1:32:57
+Car 1 has finished Passenger 30's tour.
+Passenger 30 finished riding at 17:1:32:57
+Passenger 13 enters the museum at 17:1:32:57
+Car 1 accepts Passenger 13's request
+Passenger 13 started riding at 17:1:32:57
+Passenger 48 made a ride request at 17:1:32:57
+Passenger 2 made a ride request at 17:1:32:57
+Passenger 45 made a ride request at 17:1:32:57
+Passenger 29 made a ride request at 17:1:32:57
+Passenger 23 made a ride request at 17:1:32:57
+Passenger 19 made a ride request at 17:1:32:57
+Passenger 13 made a ride request at 17:1:32:57
+Passenger 46 made a ride request at 17:1:32:58
+Car 21 has finished Passenger 30's tour.
+Passenger 30 finished riding at 17:1:32:58
+Car 21 accepts Passenger 48's request
+Passenger 48 started riding at 17:1:32:58
+Passenger 24 enters the museum at 17:1:32:58
+Car 17 has finished Passenger 33's tour.
+Passenger 33 finished riding at 17:1:32:58
+Passenger 9 enters the museum at 17:1:32:58
+Car 17 accepts Passenger 2's request
+Passenger 2 started riding at 17:1:32:58
+Passenger 8 made a ride request at 17:1:32:58
+Passenger 24 made a ride request at 17:1:32:58
+Passenger 44 made a ride request at 17:1:32:59
+Car 25 has finished Passenger 22's tour.
+Passenger 22 finished riding at 17:1:32:59
+Car 25 accepts Passenger 45's request
+Passenger 45 started riding at 17:1:32:59
+Passenger 31 made a ride request at 17:1:32:59
+Passenger 31 enters the museum at 17:1:32:59
+Car 12 has finished Passenger 20's tour.
+Passenger 20 finished riding at 17:1:32:59
+Car 12 accepts Passenger 31's request
+Passenger 31 started riding at 17:1:32:60
+Passenger 20 enters the museum at 17:1:32:60
+Passenger 35 made a ride request at 17:1:32:62
+Passenger 5 made a ride request at 17:1:32:62
+Car 6 has finished Passenger 7's tour.
+Passenger 7 finished riding at 17:1:32:62
+Car 6 accepts Passenger 23's request
+Passenger 23 started riding at 17:1:32:62
+Passenger 3 made a ride request at 17:1:32:63
+Passenger 3 enters the museum at 17:1:32:63
+Passenger 9 made a ride request at 17:1:32:63
+Passenger 28 made a ride request at 17:1:32:63
+Passenger 6 made a ride request at 17:1:32:63
+Passenger 20 made a ride request at 17:1:32:63
+Passenger 31 made a ride request at 17:1:32:63
+Passenger 3 made a ride request at 17:1:32:63
+Car 9 has finished Passenger 22's tour.
+Passenger 22 finished riding at 17:1:32:64
+Car 9 accepts Passenger 3's request
+Passenger 3 started riding at 17:1:32:64
+Passenger 47 made a ride request at 17:1:32:64
+Passenger 10 enters the museum at 17:1:32:64
+Passenger 50 made a ride request at 17:1:32:64
+Car 4 has finished Passenger 27's tour.
+Passenger 27 finished riding at 17:1:32:66
+Car 25 has finished Passenger 45's tour.
+Passenger 45 finished riding at 17:1:32:66
+Passenger 18 made a ride request at 17:1:32:66
+Car 4 accepts Passenger 13's request
+Passenger 13 started riding at 17:1:32:66
+Passenger 18 enters the museum at 17:1:32:66
+Car 25 accepts Passenger 13's request
+Passenger 13 started riding at 17:1:32:66
+Passenger 8 enters the museum at 17:1:32:66
+Car 17 has finished Passenger 2's tour.
+Passenger 2 finished riding at 17:1:32:66
+Car 17 accepts Passenger 8's request
+Passenger 8 started riding at 17:1:32:66
+Passenger 24 enters the museum at 17:1:32:66
+Passenger 10 made a ride request at 17:1:32:67
+Car 8 has finished Passenger 39's tour.
+Passenger 39 finished riding at 17:1:32:67
+Car 8 accepts Passenger 24's request
+Passenger 24 started riding at 17:1:32:67
+Passenger 1 enters the museum at 17:1:32:67
+Car 20 has finished Passenger 39's tour.
+Passenger 39 finished riding at 17:1:32:67
+Passenger 7 enters the museum at 17:1:32:67
+Car 20 accepts Passenger 24's request
+Passenger 24 started riding at 17:1:32:67
+Passenger 49 made a ride request at 17:1:32:67
+Passenger 1 made a ride request at 17:1:32:68
+Car 18 has finished Passenger 26's tour.
+Passenger 26 finished riding at 17:1:32:66
+Passenger 11 enters the museum at 17:1:32:68
+Car 18 accepts Passenger 44's request
+Passenger 44 started riding at 17:1:32:68
+Passenger 8 made a ride request at 17:1:32:68
+Passenger 18 made a ride request at 17:1:32:68
+Passenger 42 made a ride request at 17:1:32:68
+Passenger 25 made a ride request at 17:1:32:68
+Car 21 has finished Passenger 48's tour.
+Passenger 48 finished riding at 17:1:32:70
+Car 21 accepts Passenger 35's request
+Passenger 35 started riding at 17:1:32:70
+Passenger 5 enters the museum at 17:1:32:70
+Car 3 has finished Passenger 36's tour.
+Passenger 36 finished riding at 17:1:32:70
+Passenger 22 enters the museum at 17:1:32:70
+Car 3 accepts Passenger 5's request
+Passenger 5 started riding at 17:1:32:71
+Passenger 5 made a ride request at 17:1:32:71
+Car 1 has finished Passenger 13's tour.
+Passenger 13 finished riding at 17:1:32:71
+Car 5 has finished Passenger 21's tour.
+Passenger 21 finished riding at 17:1:32:71
+Car 5 accepts Passenger 9's request
+Passenger 9 started riding at 17:1:32:71
+Car 1 accepts Passenger 9's request
+Passenger 9 started riding at 17:1:32:71
+Passenger 6 enters the museum at 17:1:32:71
+Passenger 28 enters the museum at 17:1:32:71
+Passenger 24 made a ride request at 17:1:32:71
+Passenger 22 made a ride request at 17:1:32:71
+Passenger 12 made a ride request at 17:1:32:75
+Passenger 7 made a ride request at 17:1:32:75
+Car 3 has finished Passenger 5's tour.
+Passenger 5 finished riding at 17:1:32:75
+Passenger 43 made a ride request at 17:1:32:75
+Car 9 has finished Passenger 3's tour.
+Passenger 3 finished riding at 17:1:32:75
+Passenger 21 enters the museum at 17:1:32:75
+Car 3 accepts Passenger 28's request
+Passenger 28 started riding at 17:1:32:75
+Passenger 16 enters the museum at 17:1:32:75
+Car 9 accepts Passenger 28's request
+Passenger 28 started riding at 17:1:32:75
+Car 9 has finished Passenger 28's tour.
+Passenger 28 finished riding at 17:1:32:76
+Passenger 32 enters the museum at 17:1:32:76
+Passenger 11 made a ride request at 17:1:32:76
+Car 9 accepts Passenger 20's request
+Passenger 20 started riding at 17:1:32:76
+Passenger 40 made a ride request at 17:1:32:77
+Car 5 has finished Passenger 9's tour.
+Passenger 9 finished riding at 17:1:32:78
+Car 5 accepts Passenger 19's request
+Passenger 19 started riding at 17:1:32:78
+Passenger 3 enters the museum at 17:1:32:78
+Passenger 16 made a ride request at 17:1:32:78
+Car 22 has finished Passenger 11's tour.
+Passenger 11 finished riding at 17:1:32:79
+Car 22 accepts Passenger 3's request
+Passenger 3 started riding at 17:1:32:79
+Passenger 47 enters the museum at 17:1:32:79
+Car 15 has finished Passenger 16's tour.
+Passenger 16 finished riding at 17:1:32:80
+Car 15 accepts Passenger 47's request
+Passenger 47 started riding at 17:1:32:80
+Car 11 has finished Passenger 9's tour.
+Passenger 9 finished riding at 17:1:32:80
+Car 11 accepts Passenger 50's request
+Passenger 50 started riding at 17:1:32:80
+Passenger 46 enters the museum at 17:1:32:80
+Passenger 37 enters the museum at 17:1:32:80
+Passenger 46 made a ride request at 17:1:32:81
+Passenger 6 made a ride request at 17:1:32:81
+Car 4 has finished Passenger 13's tour.
+Passenger 13 finished riding at 17:1:32:81
+Car 4 accepts Passenger 46's request
+Passenger 46 started riding at 17:1:32:82
+Passenger 36 enters the museum at 17:1:32:82
+Car 8 has finished Passenger 24's tour.
+Passenger 24 finished riding at 17:1:32:82
+Passenger 17 enters the museum at 17:1:32:82
+Car 8 accepts Passenger 10's request
+Passenger 10 started riding at 17:1:32:82
+Car 6 has finished Passenger 23's tour.
+Passenger 23 finished riding at 17:1:32:82
+Passenger 48 enters the museum at 17:1:32:82
+Car 6 accepts Passenger 49's request
+Passenger 49 started riding at 17:1:32:83
+Car 3 has finished Passenger 28's tour.
+Passenger 28 finished riding at 17:1:32:83
+Passenger 2 enters the museum at 17:1:32:83
+Car 3 accepts Passenger 1's request
+Passenger 1 started riding at 17:1:32:83
+Passenger 37 made a ride request at 17:1:32:83
+Car 16 has finished Passenger 14's tour.
+Passenger 14 finished riding at 17:1:32:84
+Passenger 45 enters the museum at 17:1:32:84
+Car 16 accepts Passenger 8's request
+Passenger 8 started riding at 17:1:32:84
+Car 22 has finished Passenger 3's tour.
+Passenger 3 finished riding at 17:1:32:84
+Car 22 accepts Passenger 18's request
+Passenger 18 started riding at 17:1:32:84
+Passenger 42 enters the museum at 17:1:32:84
+Passenger 28 made a ride request at 17:1:32:87
+Car 19 has finished Passenger 41's tour.
+Passenger 41 finished riding at 17:1:32:88
+Passenger 27 enters the museum at 17:1:32:89
+Car 5 has finished Passenger 19's tour.
+Passenger 19 finished riding at 17:1:32:89
+Car 15 has finished Passenger 47's tour.
+Passenger 47 finished riding at 17:1:32:89
+Car 5 accepts Passenger 42's request
+Passenger 42 started riding at 17:1:32:89
+Passenger 47 made a ride request at 17:1:32:89
+Passenger 21 made a ride request at 17:1:32:89
+Passenger 21 enters the museum at 17:1:32:89
+Passenger 47 enters the museum at 17:1:32:89
+Car 21 has finished Passenger 35's tour.
+Passenger 35 finished riding at 17:1:32:89
+Passenger 45 made a ride request at 17:1:32:89
+Passenger 14 enters the museum at 17:1:32:89
+Car 19 accepts Passenger 42's request
+Passenger 42 started riding at 17:1:32:89
+Car 15 accepts Passenger 42's request
+Passenger 42 started riding at 17:1:32:89
+Car 21 accepts Passenger 5's request
+Passenger 5 started riding at 17:1:32:89
+Passenger 36 made a ride request at 17:1:32:90
+Car 7 has finished Passenger 6's tour.
+Passenger 6 finished riding at 17:1:32:90
+Passenger 27 made a ride request at 17:1:32:90
+Car 20 has finished Passenger 24's tour.
+Passenger 24 finished riding at 17:1:32:90
+Car 20 accepts Passenger 12's request
+Passenger 12 started riding at 17:1:32:90
+Passenger 7 enters the museum at 17:1:32:90
+Passenger 2 made a ride request at 17:1:32:91
+Car 7 accepts Passenger 45's request
+Passenger 45 started riding at 17:1:32:90
+Passenger 17 made a ride request at 17:1:32:90
+Car 23 has finished Passenger 15's tour.
+Passenger 15 finished riding at 17:1:32:91
+Car 23 accepts Passenger 7's request
+Passenger 7 started riding at 17:1:32:92
+Passenger 7 made a ride request at 17:1:32:92
+Car 20 has finished Passenger 12's tour.
+Passenger 12 finished riding at 17:1:32:91
+Car 20 accepts Passenger 7's request
+Passenger 7 started riding at 17:1:32:92
+Passenger 11 enters the museum at 17:1:32:92
+Passenger 29 enters the museum at 17:1:32:92
+Passenger 48 made a ride request at 17:1:32:92
+Car 15 has finished Passenger 42's tour.
+Passenger 42 finished riding at 17:1:32:92
+Car 15 accepts Passenger 11's request
+Passenger 11 started riding at 17:1:32:93
+Passenger 40 enters the museum at 17:1:32:93
+Passenger 29 made a ride request at 17:1:32:93
+Passenger 4 enters the museum at 17:1:32:90
+Car 13 has finished Passenger 37's tour.
+Passenger 37 finished riding at 17:1:32:93
+Car 13 accepts Passenger 40's request
+Passenger 40 started riding at 17:1:32:94
+Car 21 has finished Passenger 5's tour.
+Passenger 5 finished riding at 17:1:32:94
+Passenger 15 enters the museum at 17:1:32:94
+Car 21 accepts Passenger 16's request
+Passenger 16 started riding at 17:1:32:94
+Passenger 9 enters the museum at 17:1:32:94
+Car 14 has finished Passenger 27's tour.
+Passenger 27 finished riding at 17:1:32:94
+Passenger 33 enters the museum at 17:1:32:94
+Car 14 accepts Passenger 46's request
+Passenger 46 started riding at 17:1:32:94
+Passenger 47 made a ride request at 17:1:32:94
+Passenger 14 made a ride request at 17:1:32:95
+Passenger 11 made a ride request at 17:1:32:96
+Passenger 33 made a ride request at 17:1:32:96
+Car 14 has finished Passenger 46's tour.
+Passenger 46 finished riding at 17:1:32:97
+Car 21 has finished Passenger 16's tour.
+Passenger 16 finished riding at 17:1:32:97
+Passenger 34 enters the museum at 17:1:32:97
+Car 21 accepts Passenger 6's request
+Passenger 6 started riding at 17:1:32:97
+Passenger 20 enters the museum at 17:1:32:97
+Car 14 accepts Passenger 6's request
+Passenger 6 started riding at 17:1:32:97
+Passenger 3 made a ride request at 17:1:32:97
+Car 23 has finished Passenger 7's tour.
+Passenger 7 finished riding at 17:1:32:97
+Passenger 31 enters the museum at 17:1:32:98
+Car 23 accepts Passenger 37's request
+Passenger 37 started riding at 17:1:32:98
+Passenger 40 made a ride request at 17:1:32:98
+Car 22 has finished Passenger 18's tour.
+Passenger 18 finished riding at 17:1:32:99
+Car 22 accepts Passenger 40's request
+Passenger 40 started riding at 17:1:32:99
+Car 12 has finished Passenger 31's tour.
+Passenger 31 finished riding at 17:1:32:99
+Car 12 accepts Passenger 22's request
+Passenger 22 started riding at 17:1:32:99
+Passenger 22 finished all 3 tours
+Passenger 36 enters the museum at 17:1:32:99
+Car 8 has finished Passenger 10's tour.
+Passenger 10 finished riding at 17:1:32:100
+Car 8 accepts Passenger 36's request
+Passenger 36 started riding at 17:1:32:100
+Passenger 25 enters the museum at 17:1:32:100
+Car 4 has finished Passenger 46's tour.
+Passenger 46 finished riding at 17:1:32:100
+Car 4 accepts Passenger 25's request
+Passenger 25 started riding at 17:1:32:100
+Passenger 31 made a ride request at 17:1:32:100
+Passenger 38 enters the museum at 17:1:32:100
+Passenger 25 made a ride request at 17:1:32:101
+Passenger 34 made a ride request at 17:1:32:101
+Car 17 has finished Passenger 8's tour.
+Passenger 8 finished riding at 17:1:32:102
+Car 17 accepts Passenger 31's request
+Passenger 31 started riding at 17:1:32:102
+Passenger 2 enters the museum at 17:1:32:102
+Car 16 has finished Passenger 8's tour.
+Passenger 8 finished riding at 17:1:32:103
+Car 16 accepts Passenger 2's request
+Passenger 2 started riding at 17:1:32:103
+Passenger 38 made a ride request at 17:1:32:103
+Passenger 10 enters the museum at 17:1:32:103
+Passenger 21 made a ride request at 17:1:32:103
+Passenger 15 made a ride request at 17:1:32:104
+Passenger 2 made a ride request at 17:1:32:104
+Passenger 32 made a ride request at 17:1:32:105
+Passenger 4 made a ride request at 17:1:32:105
+Passenger 20 made a ride request at 17:1:32:107
+Car 17 has finished Passenger 31's tour.
+Passenger 31 finished riding at 17:1:32:107
+Car 17 accepts Passenger 17's request
+Passenger 17 started riding at 17:1:32:108
+Passenger 48 enters the museum at 17:1:32:108
+Passenger 48 made a ride request at 17:1:32:109
+Car 21 has finished Passenger 6's tour.
+Passenger 6 finished riding at 17:1:32:109
+Passenger 1 enters the museum at 17:1:32:109
+Car 21 accepts Passenger 48's request
+Passenger 48 started riding at 17:1:32:109
+Car 15 has finished Passenger 11's tour.
+Passenger 11 finished riding at 17:1:32:110
+Passenger 42 made a ride request at 17:1:32:110
+Passenger 36 made a ride request at 17:1:32:110
+Car 19 has finished Passenger 42's tour.
+Passenger 42 finished riding at 17:1:32:110
+Passenger 8 enters the museum at 17:1:32:110
+Car 19 accepts Passenger 29's request
+Passenger 29 started riding at 17:1:32:110
+Car 15 accepts Passenger 29's request
+Passenger 29 started riding at 17:1:32:110
+Passenger 18 enters the museum at 17:1:32:110
+Passenger 1 made a ride request at 17:1:32:110
+Car 2 has finished Passenger 19's tour.
+Passenger 19 finished riding at 17:1:32:110
+Passenger 23 enters the museum at 17:1:32:110
+Car 2 accepts Passenger 47's request
+Passenger 47 started riding at 17:1:32:110
+Passenger 18 made a ride request at 17:1:32:111
+Car 24 has finished Passenger 22's tour.
+Passenger 22 finished riding at 17:1:32:112
+Passenger 13 enters the museum at 17:1:32:112
+Car 24 accepts Passenger 14's request
+Passenger 14 started riding at 17:1:32:112
+Car 13 has finished Passenger 40's tour.
+Passenger 40 finished riding at 17:1:32:112
+Car 13 accepts Passenger 11's request
+Passenger 11 started riding at 17:1:32:112
+Passenger 45 enters the museum at 17:1:32:112
+Car 16 has finished Passenger 2's tour.
+Passenger 2 finished riding at 17:1:32:114
+Passenger 5 enters the museum at 17:1:32:114
+Car 13 has finished Passenger 11's tour.
+Passenger 11 finished riding at 17:1:32:114
+Car 16 accepts Passenger 33's request
+Passenger 33 started riding at 17:1:32:114
+Car 13 accepts Passenger 3's request
+Passenger 3 started riding at 17:1:32:114
+Passenger 26 enters the museum at 17:1:32:114
+Passenger 5 made a ride request at 17:1:32:114
+Passenger 13 made a ride request at 17:1:32:115
+Car 6 has finished Passenger 49's tour.
+Passenger 49 finished riding at 17:1:32:115
+Passenger 41 enters the museum at 17:1:32:115
+Car 6 accepts Passenger 24's request
+Passenger 24 started riding at 17:1:32:115
+Car 15 has finished Passenger 29's tour.
+Passenger 29 finished riding at 17:1:32:116
+Car 15 accepts Passenger 27's request
+Passenger 27 started riding at 17:1:32:116
+Passenger 41 made a ride request at 17:1:32:116
+Passenger 12 enters the museum at 17:1:32:116
+Car 10 has finished Passenger 24's tour.
+Passenger 24 finished riding at 17:1:32:117
+Passenger 8 made a ride request at 17:1:32:117
+Car 10 accepts Passenger 25's request
+Passenger 25 started riding at 17:1:32:117
+Passenger 7 finished all 3 tours
+Passenger 45 made a ride request at 17:1:32:117
+Passenger 10 made a ride request at 17:1:32:118
+Car 12 has finished Passenger 22's tour.
+Passenger 22 finished riding at 17:1:32:119
+Car 12 accepts Passenger 34's request
+Passenger 34 started riding at 17:1:32:119
+Passenger 44 enters the museum at 17:1:32:119
+Car 24 has finished Passenger 14's tour.
+Passenger 14 finished riding at 17:1:32:119
+Car 24 accepts Passenger 34's request
+Passenger 34 started riding at 17:1:32:119
+Car 1 has finished Passenger 9's tour.
+Passenger 9 finished riding at 17:1:32:119
+Passenger 26 made a ride request at 17:1:32:119
+Car 1 accepts Passenger 34's request
+Passenger 34 started riding at 17:1:32:119
+Passenger 26 enters the museum at 17:1:32:119
+Passenger 38 enters the museum at 17:1:32:119
+Car 2 has finished Passenger 47's tour.
+Passenger 47 finished riding at 17:1:32:119
+Passenger 46 enters the museum at 17:1:32:119
+Car 2 accepts Passenger 21's request
+Passenger 21 started riding at 17:1:32:119
+Passenger 38 made a ride request at 17:1:32:119
+Car 22 has finished Passenger 40's tour.
+Passenger 40 finished riding at 17:1:32:120
+Car 22 accepts Passenger 2's request
+Passenger 2 started riding at 17:1:32:120
+Passenger 6 finished all 3 tours
+Passenger 26 made a ride request at 17:1:32:120
+Passenger 9 made a ride request at 17:1:32:121
+Car 2 has finished Passenger 21's tour.
+Passenger 21 finished riding at 17:1:32:121
+Car 2 accepts Passenger 26's request
+Passenger 26 started riding at 17:1:32:121
+Passenger 28 enters the museum at 17:1:32:121
+Passenger 23 made a ride request at 17:1:32:121
+Car 23 has finished Passenger 37's tour.
+Passenger 37 finished riding at 17:1:32:122
+Car 5 has finished Passenger 42's tour.
+Passenger 42 finished riding at 17:1:32:122
+Passenger 37 enters the museum at 17:1:32:122
+Passenger 40 enters the museum at 17:1:32:122
+Car 5 accepts Passenger 4's request
+Passenger 4 started riding at 17:1:32:122
+Car 23 accepts Passenger 20's request
+Passenger 20 started riding at 17:1:32:123
+Car 21 has finished Passenger 48's tour.
+Passenger 48 finished riding at 17:1:32:123
+Passenger 44 made a ride request at 17:1:32:123
+Passenger 44 enters the museum at 17:1:32:123
+Car 21 accepts Passenger 20's request
+Passenger 20 started riding at 17:1:32:123
+Car 8 has finished Passenger 36's tour.
+Passenger 36 finished riding at 17:1:32:123
+Car 8 accepts Passenger 44's request
+Passenger 44 started riding at 17:1:32:123
+Passenger 48 finished all 3 tours
+Passenger 28 made a ride request at 17:1:32:125
+Car 11 has finished Passenger 50's tour.
+Passenger 50 finished riding at 17:1:32:125
+Car 24 has finished Passenger 34's tour.
+Passenger 34 finished riding at 17:1:32:125
+Car 11 accepts Passenger 42's request
+Passenger 42 started riding at 17:1:32:125
+Passenger 31 finished all 3 tours
+Car 24 accepts Passenger 42's request
+Passenger 42 started riding at 17:1:32:125
+Car 2 has finished Passenger 26's tour.
+Passenger 26 finished riding at 17:1:32:125
+Passenger 1 finished all 3 tours
+Passenger 17 enters the museum at 17:1:32:125
+Car 2 accepts Passenger 1's request
+Passenger 1 started riding at 17:1:32:125
+Car 1 has finished Passenger 34's tour.
+Passenger 34 finished riding at 17:1:32:125
+Car 1 accepts Passenger 18's request
+Passenger 18 started riding at 17:1:32:125
+Passenger 13 finished all 3 tours
+Passenger 46 made a ride request at 17:1:32:125
+Passenger 17 made a ride request at 17:1:32:126
+Passenger 44 made a ride request at 17:1:32:126
+Passenger 40 made a ride request at 17:1:32:126
+Car 10 has finished Passenger 25's tour.
+Passenger 25 finished riding at 17:1:32:126
+Passenger 49 enters the museum at 17:1:32:126
+Car 10 accepts Passenger 13's request
+Passenger 13 started riding at 17:1:32:126
+Car 25 has finished Passenger 13's tour.
+Passenger 13 finished riding at 17:1:32:127
+Passenger 30 enters the museum at 17:1:32:127
+Car 14 has finished Passenger 6's tour.
+Passenger 6 finished riding at 17:1:32:127
+Car 25 accepts Passenger 41's request
+Passenger 41 started riding at 17:1:32:127
+Car 8 has finished Passenger 44's tour.
+Passenger 44 finished riding at 17:1:32:127
+Car 8 accepts Passenger 10's request
+Passenger 10 started riding at 17:1:32:128
+Car 3 has finished Passenger 1's tour.
+Passenger 1 finished riding at 17:1:32:128
+Passenger 14 enters the museum at 17:1:32:128
+Car 3 accepts Passenger 10's request
+Passenger 10 started riding at 17:1:32:128
+Passenger 45 finished all 3 tours
+Passenger 30 made a ride request at 17:1:32:130
+Car 6 has finished Passenger 24's tour.
+Passenger 24 finished riding at 17:1:32:130
+Car 6 accepts Passenger 30's request
+Passenger 30 started riding at 17:1:32:130
+Passenger 11 finished all 3 tours
+Passenger 14 made a ride request at 17:1:32:130
+Car 17 has finished Passenger 17's tour.
+Passenger 17 finished riding at 17:1:32:130
+Car 17 accepts Passenger 38's request
+Passenger 38 started riding at 17:1:32:130
+Passenger 33 enters the museum at 17:1:32:130
+Passenger 43 enters the museum at 17:1:32:127
+Passenger 49 made a ride request at 17:1:32:127
+Car 23 has finished Passenger 20's tour.
+Passenger 20 finished riding at 17:1:32:132
+Car 23 accepts Passenger 32's request
+Passenger 32 started riding at 17:1:32:132
+Passenger 3 finished all 3 tours
+Car 10 has finished Passenger 13's tour.
+Passenger 13 finished riding at 17:1:32:133
+Passenger 24 finished all 3 tours
+Car 10 accepts Passenger 9's request
+Passenger 9 started riding at 17:1:32:133
+Car 23 has finished Passenger 32's tour.
+Passenger 32 finished riding at 17:1:32:133
+Passenger 43 made a ride request at 17:1:32:133
+Car 23 accepts Passenger 23's request
+Passenger 23 started riding at 17:1:32:133
+Car 14 accepts Passenger 41's request
+Passenger 41 started riding at 17:1:32:127
+Passenger 27 enters the museum at 17:1:32:133
+Passenger 12 made a ride request at 17:1:32:134
+Car 20 has finished Passenger 7's tour.
+Passenger 7 finished riding at 17:1:32:134
+Car 20 accepts Passenger 36's request
+Passenger 36 started riding at 17:1:32:135
+Passenger 25 enters the museum at 17:1:32:135
+Car 13 has finished Passenger 3's tour.
+Passenger 3 finished riding at 17:1:32:135
+Car 13 accepts Passenger 28's request
+Passenger 28 started riding at 17:1:32:135
+Passenger 34 enters the museum at 17:1:32:135
+Car 22 has finished Passenger 2's tour.
+Passenger 2 finished riding at 17:1:32:135
+Car 22 accepts Passenger 28's request
+Passenger 28 started riding at 17:1:32:135
+Passenger 35 enters the museum at 17:1:32:135
+Car 4 has finished Passenger 25's tour.
+Passenger 25 finished riding at 17:1:32:136
+Car 4 accepts Passenger 46's request
+Passenger 46 started riding at 17:1:32:136
+Passenger 21 finished all 3 tours
+Car 10 has finished Passenger 9's tour.
+Passenger 9 finished riding at 17:1:32:137
+Car 10 accepts Passenger 44's request
+Passenger 44 started riding at 17:1:32:137
+Passenger 16 enters the museum at 17:1:32:137
+Passenger 25 made a ride request at 17:1:32:137
+Passenger 27 made a ride request at 17:1:32:137
+Car 23 has finished Passenger 23's tour.
+Passenger 23 finished riding at 17:1:32:138
+Car 23 accepts Passenger 40's request
+Passenger 40 started riding at 17:1:32:138
+Passenger 14 finished all 3 tours
+Car 10 has finished Passenger 44's tour.
+Passenger 44 finished riding at 17:1:32:139
+Car 10 accepts Passenger 14's request
+Passenger 14 started riding at 17:1:32:139
+Car 23 has finished Passenger 40's tour.
+Passenger 40 finished riding at 17:1:32:139
+Passenger 26 finished all 3 tours
+Passenger 4 enters the museum at 17:1:32:139
+Car 23 accepts Passenger 14's request
+Passenger 14 started riding at 17:1:32:139
+Car 8 has finished Passenger 10's tour.
+Passenger 10 finished riding at 17:1:32:141
+Passenger 20 finished all 3 tours
+Car 8 accepts Passenger 15's request
+Passenger 15 started riding at 17:1:32:141
+Passenger 34 made a ride request at 17:1:32:143
+Car 5 has finished Passenger 4's tour.
+Passenger 4 finished riding at 17:1:32:143
+Car 5 accepts Passenger 43's request
+Passenger 43 started riding at 17:1:32:143
+Passenger 33 made a ride request at 17:1:32:143
+Passenger 19 enters the museum at 17:1:32:143
+Car 20 has finished Passenger 36's tour.
+Passenger 36 finished riding at 17:1:32:144
+Passenger 42 enters the museum at 17:1:32:144
+Car 20 accepts Passenger 33's request
+Passenger 33 started riding at 17:1:32:144
+Passenger 35 made a ride request at 17:1:32:144
+Car 19 has finished Passenger 29's tour.
+Passenger 29 finished riding at 17:1:32:145
+Car 18 has finished Passenger 44's tour.
+Passenger 44 finished riding at 17:1:32:145
+Car 19 accepts Passenger 25's request
+Passenger 25 started riding at 17:1:32:145
+Car 18 accepts Passenger 25's request
+Passenger 25 started riding at 17:1:32:145
+Passenger 39 enters the museum at 17:1:32:145
+Passenger 5 finished all 3 tours
+Passenger 42 made a ride request at 17:1:32:145
+Passenger 39 made a ride request at 17:1:32:146
+Car 7 has finished Passenger 45's tour.
+Passenger 45 finished riding at 17:1:32:146
+Car 7 accepts Passenger 27's request
+Passenger 27 started riding at 17:1:32:146
+Passenger 18 finished all 3 tours
+Passenger 19 made a ride request at 17:1:32:147
+Car 23 has finished Passenger 14's tour.
+Passenger 14 finished riding at 17:1:32:148
+Car 23 accepts Passenger 12's request
+Passenger 12 started riding at 17:1:32:148
+Passenger 41 enters the museum at 17:1:32:148
+Car 24 has finished Passenger 42's tour.
+Passenger 42 finished riding at 17:1:32:149
+Car 24 accepts Passenger 35's request
+Passenger 35 started riding at 17:1:32:149
+Passenger 29 enters the museum at 17:1:32:149
+Passenger 4 made a ride request at 17:1:32:149
+Car 11 has finished Passenger 42's tour.
+Passenger 42 finished riding at 17:1:32:150
+Passenger 50 enters the museum at 17:1:32:150
+Car 11 accepts Passenger 42's request
+Passenger 42 started riding at 17:1:32:150
+Car 11 has finished Passenger 42's tour.
+Passenger 42 finished riding at 17:1:32:151
+Car 11 accepts Passenger 39's request
+Passenger 39 started riding at 17:1:32:151
+Passenger 8 finished all 3 tours
+Car 16 has finished Passenger 33's tour.
+Passenger 33 finished riding at 17:1:32:151
+Car 16 accepts Passenger 39's request
+Passenger 39 started riding at 17:1:32:151
+Passenger 19 finished all 3 tours
+Car 25 has finished Passenger 41's tour.
+Passenger 41 finished riding at 17:1:32:152
+Car 25 accepts Passenger 4's request
+Passenger 4 started riding at 17:1:32:152
+Passenger 30 finished all 3 tours
+Passenger 50 made a ride request at 17:1:32:153
+Car 16 has finished Passenger 39's tour.
+Passenger 39 finished riding at 17:1:32:154
+Passenger 37 made a ride request at 17:1:32:154
+Car 19 has finished Passenger 25's tour.
+Passenger 25 finished riding at 17:1:32:154
+Car 16 accepts Passenger 50's request
+Passenger 50 started riding at 17:1:32:154
+Car 19 accepts Passenger 50's request
+Passenger 50 started riding at 17:1:32:154
+Passenger 32 enters the museum at 17:1:32:154
+Passenger 38 finished all 3 tours
+Car 25 has finished Passenger 4's tour.
+Passenger 4 finished riding at 17:1:32:154
+Passenger 10 finished all 3 tours
+Passenger 29 made a ride request at 17:1:32:155
+Passenger 41 made a ride request at 17:1:32:155
+Car 25 accepts Passenger 29's request
+Passenger 29 started riding at 17:1:32:155
+Car 20 has finished Passenger 33's tour.
+Passenger 33 finished riding at 17:1:32:156
+Car 20 accepts Passenger 41's request
+Passenger 41 started riding at 17:1:32:156
+Passenger 9 finished all 3 tours
+Car 7 has finished Passenger 27's tour.
+Passenger 27 finished riding at 17:1:32:156
+Passenger 23 enters the museum at 17:1:32:156
+Car 14 has finished Passenger 41's tour.
+Passenger 41 finished riding at 17:1:32:154
+Car 13 has finished Passenger 28's tour.
+Passenger 28 finished riding at 17:1:32:157
+Passenger 28 finished all 3 tours
+Passenger 17 finished all 3 tours
+Passenger 32 made a ride request at 17:1:32:157
+Car 7 accepts Passenger 32's request
+Passenger 32 started riding at 17:1:32:157
+Car 19 has finished Passenger 50's tour.
+Passenger 50 finished riding at 17:1:32:158
+Passenger 23 made a ride request at 17:1:32:158
+Passenger 23 finished all 3 tours
+Car 24 has finished Passenger 35's tour.
+Passenger 35 finished riding at 17:1:32:158
+Car 24 accepts Passenger 23's request
+Passenger 23 started riding at 17:1:32:158
+Passenger 36 finished all 3 tours
+Car 25 has finished Passenger 29's tour.
+Passenger 29 finished riding at 17:1:32:161
+Passenger 44 finished all 3 tours
+Car 4 has finished Passenger 46's tour.
+Passenger 46 finished riding at 17:1:32:161
+Passenger 40 finished all 3 tours
+Passenger 16 made a ride request at 17:1:32:164
+Car 13 accepts Passenger 16's request
+Passenger 16 started riding at 17:1:32:165
+Car 17 has finished Passenger 38's tour.
+Passenger 38 finished riding at 17:1:32:167
+Passenger 2 finished all 3 tours
+Car 11 has finished Passenger 39's tour.
+Passenger 39 finished riding at 17:1:32:169
+Passenger 49 enters the museum at 17:1:32:170
+Car 16 has finished Passenger 50's tour.
+Passenger 50 finished riding at 17:1:32:171
+Passenger 15 enters the museum at 17:1:32:171
+Car 21 has finished Passenger 20's tour.
+Passenger 20 finished riding at 17:1:32:171
+Passenger 15 made a ride request at 17:1:32:172
+Passenger 15 finished all 3 tours
+Car 19 accepts Passenger 15's request
+Passenger 15 started riding at 17:1:32:173
+Passenger 49 made a ride request at 17:1:32:173
+Car 14 accepts Passenger 49's request
+Passenger 49 started riding at 17:1:32:173
+Car 10 has finished Passenger 14's tour.
+Passenger 14 finished riding at 17:1:32:173
+Passenger 33 finished all 3 tours
+Car 18 has finished Passenger 25's tour.
+Passenger 25 finished riding at 17:1:32:174
+Passenger 25 finished all 3 tours
+Car 1 has finished Passenger 18's tour.
+Passenger 18 finished riding at 17:1:32:174
+Passenger 34 finished all 3 tours
+Car 9 has finished Passenger 20's tour.
+Passenger 20 finished riding at 17:1:32:174
+Car 3 has finished Passenger 10's tour.
+Passenger 10 finished riding at 17:1:32:176
+Passenger 12 enters the museum at 17:1:32:177
+Passenger 12 made a ride request at 17:1:32:177
+Passenger 27 finished all 3 tours
+Car 25 accepts Passenger 12's request
+Passenger 12 started riding at 17:1:32:177
+Car 12 has finished Passenger 34's tour.
+Passenger 34 finished riding at 17:1:32:179
+Passenger 35 enters the museum at 17:1:32:179
+Car 13 has finished Passenger 16's tour.
+Passenger 16 finished riding at 17:1:32:180
+Passenger 42 finished all 3 tours
+Car 8 has finished Passenger 15's tour.
+Passenger 15 finished riding at 17:1:32:181
+Passenger 39 enters the museum at 17:1:32:181
+Car 6 has finished Passenger 30's tour.
+Passenger 30 finished riding at 17:1:32:182
+Passenger 4 finished all 3 tours
+Passenger 39 made a ride request at 17:1:32:182
+Car 4 accepts Passenger 12's request
+Passenger 12 started riding at 17:1:32:183
+Car 19 has finished Passenger 15's tour.
+Passenger 15 finished riding at 17:1:32:183
+Passenger 47 finished all 3 tours
+Car 2 has finished Passenger 1's tour.
+Passenger 1 finished riding at 17:1:32:184
+Car 5 has finished Passenger 43's tour.
+Passenger 43 finished riding at 17:1:32:184
+Passenger 29 finished all 3 tours
+Passenger 50 enters the museum at 17:1:32:185
+Passenger 35 made a ride request at 17:1:32:185
+Car 17 accepts Passenger 35's request
+Passenger 35 started riding at 17:1:32:185
+Car 22 has finished Passenger 28's tour.
+Passenger 28 finished riding at 17:1:32:186
+Car 14 has finished Passenger 49's tour.
+Passenger 49 finished riding at 17:1:32:186
+Passenger 41 finished all 3 tours
+Passenger 37 finished all 3 tours
+Car 7 has finished Passenger 32's tour.
+Passenger 32 finished riding at 17:1:32:189
+Passenger 32 finished all 3 tours
+Car 17 has finished Passenger 35's tour.
+Passenger 35 finished riding at 17:1:32:190
+Passenger 46 finished all 3 tours
+Car 4 has finished Passenger 12's tour.
+Passenger 12 finished riding at 17:1:32:190
+Passenger 16 finished all 3 tours
+Car 25 has finished Passenger 12's tour.
+Passenger 12 finished riding at 17:1:32:192
+Passenger 49 finished all 3 tours
+Car 15 has finished Passenger 27's tour.
+Passenger 27 finished riding at 17:1:32:196
+Passenger 43 enters the museum at 17:1:32:196
+Passenger 50 made a ride request at 17:1:32:197
+Car 11 accepts Passenger 50's request
+Passenger 50 started riding at 17:1:32:197
+Car 11 has finished Passenger 50's tour.
+Passenger 50 finished riding at 17:1:32:204
+Passenger 43 made a ride request at 17:1:32:204
+Passenger 12 finished all 3 tours
+Car 16 accepts Passenger 43's request
+Passenger 43 started riding at 17:1:32:204
+Car 24 has finished Passenger 23's tour.
+Passenger 23 finished riding at 17:1:32:212
+Passenger 39 finished all 3 tours
+Car 20 has finished Passenger 41's tour.
+Passenger 41 finished riding at 17:1:32:233
+Passenger 35 finished all 3 tours
+Car 23 has finished Passenger 12's tour.
+Passenger 12 finished riding at 17:1:32:242
+Passenger 50 finished all 3 tours
+Car 16 has finished Passenger 43's tour.
+Passenger 43 finished riding at 17:1:32:249
+Passenger 43 finished all 3 tours
